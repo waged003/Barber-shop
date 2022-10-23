@@ -18,6 +18,10 @@ Image taken while using the azure ( some step followed) :
 3.Creating a static web app
 ![image](https://user-images.githubusercontent.com/112390375/197376966-a731c662-c019-4ced-877c-9cce0b4d853b.png)
 
+4. successfully hosted the wegpage
+ ![image](https://user-images.githubusercontent.com/112390375/197377016-f38a00ae-aa2f-471a-bbdc-2d5b42933cdc.png)
+
+
 
 
 
