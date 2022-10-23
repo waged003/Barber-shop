@@ -13,6 +13,8 @@ Image taken while using the azure ( some step followed) :
 ![image](https://user-images.githubusercontent.com/112390375/197376022-1b1d5b2d-039d-4660-a498-38031013808c.png)
 
 2.  Adding files to container
+![image](https://user-images.githubusercontent.com/112390375/197376884-fe6ff3d9-a6ba-48b0-a63a-1ca94b6a13da.png)
+
 
 
 
