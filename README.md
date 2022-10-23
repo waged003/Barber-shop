@@ -15,6 +15,10 @@ Image taken while using the azure ( some step followed) :
 2.  Adding files to container
 ![image](https://user-images.githubusercontent.com/112390375/197376884-fe6ff3d9-a6ba-48b0-a63a-1ca94b6a13da.png)
 
+3.Creating a static web app
+![image](https://user-images.githubusercontent.com/112390375/197376966-a731c662-c019-4ced-877c-9cce0b4d853b.png)
+
+
 
 
 
