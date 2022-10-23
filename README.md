@@ -5,7 +5,7 @@ they can find the working hours and contact deatials to book the slot online.
 I have used HTML, CSS, AZURE STATIC WEB APP, AZURE STORAGE ACCOUNT .
 I hosted the webpage using  STATIC WEB APP service and used the STORAGE ACCOUNT for uploding my code to azure. 
 
-project link( demo link) :
+project link( demo link) : https://ashy-bush-0b3689010.2.azurestaticapps.net/
 
 Image taken while using the azure ( some step followed) :
 
